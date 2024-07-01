@@ -4,7 +4,7 @@ Welcome to the Whack-A-Mole Python Game! This is a simple, fun, and interactive 
 # Installation
   To run the Whack-A-Mole game on your local machine, follow these steps:
     # Clone the repository:
-        git clone https://github.com/yourusername/whack-a-mole-python.git
+        git clone https://github.com/guptatanishq/whack-a-mole-python.git
     # Navigate to the project directory:
         cd whack-a-mole-python
     # Install the required dependencies:
